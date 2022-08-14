@@ -79,7 +79,7 @@ public class FacebookLoginTest {
 		SerachUser st = new SerachUser(driver);
 		st.getemailField().sendKeys("zxcvb@gmail.com");
 		st.getSubmitButton().click();
-		
+		System.out.println("test completed");
 		
 	}
 	
