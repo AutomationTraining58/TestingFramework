@@ -80,6 +80,7 @@ public class FacebookLoginTest {
 		st.getemailField().sendKeys("zxcvb@gmail.com");
 		st.getSubmitButton().click();
 		System.out.println("test completed");
+		System.out.println("change made by person b");
 		
 	}
 	
